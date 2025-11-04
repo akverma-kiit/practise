@@ -64,6 +64,7 @@ Node *createLinkList(Node *list, insType tpye, int userData, int *arr,
 int main()
 {
   //This is the begining 
+  //Hello to the QAIOR QA QIPL Team
   Node *start          = NULL;
   int arrValue[]       = { 11, 12, 13, 14, 15, 16 };
   unsigned int arrSize = sizeof(arrValue) / sizeof(arrValue[0]);
